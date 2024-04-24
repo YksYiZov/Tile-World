@@ -2,7 +2,7 @@
 
 ## 一、介绍
 
-本项目复现论文 [Commitment and Eectiveness of Situated Agents](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cc4f3c0e99a2aadd4012ad9848b943a8e9d3457c)中的实验。
+本项目复现论文 [Commitment and Effectiveness of Situated Agents](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cc4f3c0e99a2aadd4012ad9848b943a8e9d3457c)中的实验。
 
 ## 二、使用
 
